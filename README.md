@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dawn-03
 - 👀 I’m interested in big data and crawler
 - 🌱 I’m now learning java, python, scala, crawler, hadoop, spark ...
-- 💞️ I’m looking for collaborative big data related projects and graduation projects
 - 📫 My email is:, Facebook account is:
 
 <!---
